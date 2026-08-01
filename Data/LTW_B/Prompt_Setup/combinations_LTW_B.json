@@ -1,0 +1,2114 @@
+[
+  {
+    "custom_id": 0,
+    "gender": "m\u00e4nnlich",
+    "district": "Mitte",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 1,
+    "gender": "m\u00e4nnlich",
+    "district": "Mitte",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 2,
+    "gender": "m\u00e4nnlich",
+    "district": "Mitte",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 3,
+    "gender": "m\u00e4nnlich",
+    "district": "Mitte",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 4,
+    "gender": "m\u00e4nnlich",
+    "district": "Mitte",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 5,
+    "gender": "m\u00e4nnlich",
+    "district": "Mitte",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 6,
+    "gender": "m\u00e4nnlich",
+    "district": "Mitte",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 7,
+    "gender": "m\u00e4nnlich",
+    "district": "Mitte",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 8,
+    "gender": "m\u00e4nnlich",
+    "district": "Mitte",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 9,
+    "gender": "m\u00e4nnlich",
+    "district": "Mitte",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 10,
+    "gender": "m\u00e4nnlich",
+    "district": "Mitte",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 11,
+    "gender": "m\u00e4nnlich",
+    "district": "Friedrichshain-Kreuzberg",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 12,
+    "gender": "m\u00e4nnlich",
+    "district": "Friedrichshain-Kreuzberg",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 13,
+    "gender": "m\u00e4nnlich",
+    "district": "Friedrichshain-Kreuzberg",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 14,
+    "gender": "m\u00e4nnlich",
+    "district": "Friedrichshain-Kreuzberg",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 15,
+    "gender": "m\u00e4nnlich",
+    "district": "Friedrichshain-Kreuzberg",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 16,
+    "gender": "m\u00e4nnlich",
+    "district": "Friedrichshain-Kreuzberg",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 17,
+    "gender": "m\u00e4nnlich",
+    "district": "Friedrichshain-Kreuzberg",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 18,
+    "gender": "m\u00e4nnlich",
+    "district": "Friedrichshain-Kreuzberg",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 19,
+    "gender": "m\u00e4nnlich",
+    "district": "Friedrichshain-Kreuzberg",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 20,
+    "gender": "m\u00e4nnlich",
+    "district": "Friedrichshain-Kreuzberg",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 21,
+    "gender": "m\u00e4nnlich",
+    "district": "Friedrichshain-Kreuzberg",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 22,
+    "gender": "m\u00e4nnlich",
+    "district": "Pankow",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 23,
+    "gender": "m\u00e4nnlich",
+    "district": "Pankow",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 24,
+    "gender": "m\u00e4nnlich",
+    "district": "Pankow",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 25,
+    "gender": "m\u00e4nnlich",
+    "district": "Pankow",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 26,
+    "gender": "m\u00e4nnlich",
+    "district": "Pankow",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 27,
+    "gender": "m\u00e4nnlich",
+    "district": "Pankow",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 28,
+    "gender": "m\u00e4nnlich",
+    "district": "Pankow",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 29,
+    "gender": "m\u00e4nnlich",
+    "district": "Pankow",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 30,
+    "gender": "m\u00e4nnlich",
+    "district": "Pankow",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 31,
+    "gender": "m\u00e4nnlich",
+    "district": "Pankow",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 32,
+    "gender": "m\u00e4nnlich",
+    "district": "Pankow",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 33,
+    "gender": "m\u00e4nnlich",
+    "district": "Charlottenburg-Wilmersdorf",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 34,
+    "gender": "m\u00e4nnlich",
+    "district": "Charlottenburg-Wilmersdorf",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 35,
+    "gender": "m\u00e4nnlich",
+    "district": "Charlottenburg-Wilmersdorf",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 36,
+    "gender": "m\u00e4nnlich",
+    "district": "Charlottenburg-Wilmersdorf",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 37,
+    "gender": "m\u00e4nnlich",
+    "district": "Charlottenburg-Wilmersdorf",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 38,
+    "gender": "m\u00e4nnlich",
+    "district": "Charlottenburg-Wilmersdorf",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 39,
+    "gender": "m\u00e4nnlich",
+    "district": "Charlottenburg-Wilmersdorf",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 40,
+    "gender": "m\u00e4nnlich",
+    "district": "Charlottenburg-Wilmersdorf",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 41,
+    "gender": "m\u00e4nnlich",
+    "district": "Charlottenburg-Wilmersdorf",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 42,
+    "gender": "m\u00e4nnlich",
+    "district": "Charlottenburg-Wilmersdorf",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 43,
+    "gender": "m\u00e4nnlich",
+    "district": "Charlottenburg-Wilmersdorf",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 44,
+    "gender": "m\u00e4nnlich",
+    "district": "Spandau",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 45,
+    "gender": "m\u00e4nnlich",
+    "district": "Spandau",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 46,
+    "gender": "m\u00e4nnlich",
+    "district": "Spandau",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 47,
+    "gender": "m\u00e4nnlich",
+    "district": "Spandau",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 48,
+    "gender": "m\u00e4nnlich",
+    "district": "Spandau",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 49,
+    "gender": "m\u00e4nnlich",
+    "district": "Spandau",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 50,
+    "gender": "m\u00e4nnlich",
+    "district": "Spandau",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 51,
+    "gender": "m\u00e4nnlich",
+    "district": "Spandau",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 52,
+    "gender": "m\u00e4nnlich",
+    "district": "Spandau",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 53,
+    "gender": "m\u00e4nnlich",
+    "district": "Spandau",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 54,
+    "gender": "m\u00e4nnlich",
+    "district": "Spandau",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 55,
+    "gender": "m\u00e4nnlich",
+    "district": "Steglitz-Zehlendorf",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 56,
+    "gender": "m\u00e4nnlich",
+    "district": "Steglitz-Zehlendorf",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 57,
+    "gender": "m\u00e4nnlich",
+    "district": "Steglitz-Zehlendorf",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 58,
+    "gender": "m\u00e4nnlich",
+    "district": "Steglitz-Zehlendorf",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 59,
+    "gender": "m\u00e4nnlich",
+    "district": "Steglitz-Zehlendorf",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 60,
+    "gender": "m\u00e4nnlich",
+    "district": "Steglitz-Zehlendorf",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 61,
+    "gender": "m\u00e4nnlich",
+    "district": "Steglitz-Zehlendorf",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 62,
+    "gender": "m\u00e4nnlich",
+    "district": "Steglitz-Zehlendorf",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 63,
+    "gender": "m\u00e4nnlich",
+    "district": "Steglitz-Zehlendorf",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 64,
+    "gender": "m\u00e4nnlich",
+    "district": "Steglitz-Zehlendorf",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 65,
+    "gender": "m\u00e4nnlich",
+    "district": "Steglitz-Zehlendorf",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 66,
+    "gender": "m\u00e4nnlich",
+    "district": "Tempelhof-Sch\u00f6neberg",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 67,
+    "gender": "m\u00e4nnlich",
+    "district": "Tempelhof-Sch\u00f6neberg",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 68,
+    "gender": "m\u00e4nnlich",
+    "district": "Tempelhof-Sch\u00f6neberg",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 69,
+    "gender": "m\u00e4nnlich",
+    "district": "Tempelhof-Sch\u00f6neberg",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 70,
+    "gender": "m\u00e4nnlich",
+    "district": "Tempelhof-Sch\u00f6neberg",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 71,
+    "gender": "m\u00e4nnlich",
+    "district": "Tempelhof-Sch\u00f6neberg",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 72,
+    "gender": "m\u00e4nnlich",
+    "district": "Tempelhof-Sch\u00f6neberg",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 73,
+    "gender": "m\u00e4nnlich",
+    "district": "Tempelhof-Sch\u00f6neberg",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 74,
+    "gender": "m\u00e4nnlich",
+    "district": "Tempelhof-Sch\u00f6neberg",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 75,
+    "gender": "m\u00e4nnlich",
+    "district": "Tempelhof-Sch\u00f6neberg",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 76,
+    "gender": "m\u00e4nnlich",
+    "district": "Tempelhof-Sch\u00f6neberg",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 77,
+    "gender": "m\u00e4nnlich",
+    "district": "Neuk\u00f6lln",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 78,
+    "gender": "m\u00e4nnlich",
+    "district": "Neuk\u00f6lln",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 79,
+    "gender": "m\u00e4nnlich",
+    "district": "Neuk\u00f6lln",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 80,
+    "gender": "m\u00e4nnlich",
+    "district": "Neuk\u00f6lln",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 81,
+    "gender": "m\u00e4nnlich",
+    "district": "Neuk\u00f6lln",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 82,
+    "gender": "m\u00e4nnlich",
+    "district": "Neuk\u00f6lln",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 83,
+    "gender": "m\u00e4nnlich",
+    "district": "Neuk\u00f6lln",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 84,
+    "gender": "m\u00e4nnlich",
+    "district": "Neuk\u00f6lln",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 85,
+    "gender": "m\u00e4nnlich",
+    "district": "Neuk\u00f6lln",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 86,
+    "gender": "m\u00e4nnlich",
+    "district": "Neuk\u00f6lln",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 87,
+    "gender": "m\u00e4nnlich",
+    "district": "Neuk\u00f6lln",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 88,
+    "gender": "m\u00e4nnlich",
+    "district": "Treptow-K\u00f6penick",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 89,
+    "gender": "m\u00e4nnlich",
+    "district": "Treptow-K\u00f6penick",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 90,
+    "gender": "m\u00e4nnlich",
+    "district": "Treptow-K\u00f6penick",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 91,
+    "gender": "m\u00e4nnlich",
+    "district": "Treptow-K\u00f6penick",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 92,
+    "gender": "m\u00e4nnlich",
+    "district": "Treptow-K\u00f6penick",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 93,
+    "gender": "m\u00e4nnlich",
+    "district": "Treptow-K\u00f6penick",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 94,
+    "gender": "m\u00e4nnlich",
+    "district": "Treptow-K\u00f6penick",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 95,
+    "gender": "m\u00e4nnlich",
+    "district": "Treptow-K\u00f6penick",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 96,
+    "gender": "m\u00e4nnlich",
+    "district": "Treptow-K\u00f6penick",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 97,
+    "gender": "m\u00e4nnlich",
+    "district": "Treptow-K\u00f6penick",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 98,
+    "gender": "m\u00e4nnlich",
+    "district": "Treptow-K\u00f6penick",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 99,
+    "gender": "m\u00e4nnlich",
+    "district": "Marzahn-Hellersdorf",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 100,
+    "gender": "m\u00e4nnlich",
+    "district": "Marzahn-Hellersdorf",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 101,
+    "gender": "m\u00e4nnlich",
+    "district": "Marzahn-Hellersdorf",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 102,
+    "gender": "m\u00e4nnlich",
+    "district": "Marzahn-Hellersdorf",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 103,
+    "gender": "m\u00e4nnlich",
+    "district": "Marzahn-Hellersdorf",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 104,
+    "gender": "m\u00e4nnlich",
+    "district": "Marzahn-Hellersdorf",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 105,
+    "gender": "m\u00e4nnlich",
+    "district": "Marzahn-Hellersdorf",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 106,
+    "gender": "m\u00e4nnlich",
+    "district": "Marzahn-Hellersdorf",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 107,
+    "gender": "m\u00e4nnlich",
+    "district": "Marzahn-Hellersdorf",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 108,
+    "gender": "m\u00e4nnlich",
+    "district": "Marzahn-Hellersdorf",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 109,
+    "gender": "m\u00e4nnlich",
+    "district": "Marzahn-Hellersdorf",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 110,
+    "gender": "m\u00e4nnlich",
+    "district": "Lichtenberg",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 111,
+    "gender": "m\u00e4nnlich",
+    "district": "Lichtenberg",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 112,
+    "gender": "m\u00e4nnlich",
+    "district": "Lichtenberg",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 113,
+    "gender": "m\u00e4nnlich",
+    "district": "Lichtenberg",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 114,
+    "gender": "m\u00e4nnlich",
+    "district": "Lichtenberg",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 115,
+    "gender": "m\u00e4nnlich",
+    "district": "Lichtenberg",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 116,
+    "gender": "m\u00e4nnlich",
+    "district": "Lichtenberg",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 117,
+    "gender": "m\u00e4nnlich",
+    "district": "Lichtenberg",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 118,
+    "gender": "m\u00e4nnlich",
+    "district": "Lichtenberg",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 119,
+    "gender": "m\u00e4nnlich",
+    "district": "Lichtenberg",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 120,
+    "gender": "m\u00e4nnlich",
+    "district": "Lichtenberg",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 121,
+    "gender": "m\u00e4nnlich",
+    "district": "Reinickendorf",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 122,
+    "gender": "m\u00e4nnlich",
+    "district": "Reinickendorf",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 123,
+    "gender": "m\u00e4nnlich",
+    "district": "Reinickendorf",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 124,
+    "gender": "m\u00e4nnlich",
+    "district": "Reinickendorf",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 125,
+    "gender": "m\u00e4nnlich",
+    "district": "Reinickendorf",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 126,
+    "gender": "m\u00e4nnlich",
+    "district": "Reinickendorf",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 127,
+    "gender": "m\u00e4nnlich",
+    "district": "Reinickendorf",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 128,
+    "gender": "m\u00e4nnlich",
+    "district": "Reinickendorf",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 129,
+    "gender": "m\u00e4nnlich",
+    "district": "Reinickendorf",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 130,
+    "gender": "m\u00e4nnlich",
+    "district": "Reinickendorf",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 131,
+    "gender": "m\u00e4nnlich",
+    "district": "Reinickendorf",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 132,
+    "gender": "weiblich",
+    "district": "Mitte",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 133,
+    "gender": "weiblich",
+    "district": "Mitte",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 134,
+    "gender": "weiblich",
+    "district": "Mitte",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 135,
+    "gender": "weiblich",
+    "district": "Mitte",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 136,
+    "gender": "weiblich",
+    "district": "Mitte",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 137,
+    "gender": "weiblich",
+    "district": "Mitte",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 138,
+    "gender": "weiblich",
+    "district": "Mitte",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 139,
+    "gender": "weiblich",
+    "district": "Mitte",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 140,
+    "gender": "weiblich",
+    "district": "Mitte",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 141,
+    "gender": "weiblich",
+    "district": "Mitte",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 142,
+    "gender": "weiblich",
+    "district": "Mitte",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 143,
+    "gender": "weiblich",
+    "district": "Friedrichshain-Kreuzberg",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 144,
+    "gender": "weiblich",
+    "district": "Friedrichshain-Kreuzberg",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 145,
+    "gender": "weiblich",
+    "district": "Friedrichshain-Kreuzberg",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 146,
+    "gender": "weiblich",
+    "district": "Friedrichshain-Kreuzberg",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 147,
+    "gender": "weiblich",
+    "district": "Friedrichshain-Kreuzberg",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 148,
+    "gender": "weiblich",
+    "district": "Friedrichshain-Kreuzberg",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 149,
+    "gender": "weiblich",
+    "district": "Friedrichshain-Kreuzberg",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 150,
+    "gender": "weiblich",
+    "district": "Friedrichshain-Kreuzberg",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 151,
+    "gender": "weiblich",
+    "district": "Friedrichshain-Kreuzberg",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 152,
+    "gender": "weiblich",
+    "district": "Friedrichshain-Kreuzberg",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 153,
+    "gender": "weiblich",
+    "district": "Friedrichshain-Kreuzberg",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 154,
+    "gender": "weiblich",
+    "district": "Pankow",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 155,
+    "gender": "weiblich",
+    "district": "Pankow",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 156,
+    "gender": "weiblich",
+    "district": "Pankow",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 157,
+    "gender": "weiblich",
+    "district": "Pankow",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 158,
+    "gender": "weiblich",
+    "district": "Pankow",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 159,
+    "gender": "weiblich",
+    "district": "Pankow",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 160,
+    "gender": "weiblich",
+    "district": "Pankow",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 161,
+    "gender": "weiblich",
+    "district": "Pankow",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 162,
+    "gender": "weiblich",
+    "district": "Pankow",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 163,
+    "gender": "weiblich",
+    "district": "Pankow",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 164,
+    "gender": "weiblich",
+    "district": "Pankow",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 165,
+    "gender": "weiblich",
+    "district": "Charlottenburg-Wilmersdorf",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 166,
+    "gender": "weiblich",
+    "district": "Charlottenburg-Wilmersdorf",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 167,
+    "gender": "weiblich",
+    "district": "Charlottenburg-Wilmersdorf",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 168,
+    "gender": "weiblich",
+    "district": "Charlottenburg-Wilmersdorf",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 169,
+    "gender": "weiblich",
+    "district": "Charlottenburg-Wilmersdorf",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 170,
+    "gender": "weiblich",
+    "district": "Charlottenburg-Wilmersdorf",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 171,
+    "gender": "weiblich",
+    "district": "Charlottenburg-Wilmersdorf",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 172,
+    "gender": "weiblich",
+    "district": "Charlottenburg-Wilmersdorf",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 173,
+    "gender": "weiblich",
+    "district": "Charlottenburg-Wilmersdorf",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 174,
+    "gender": "weiblich",
+    "district": "Charlottenburg-Wilmersdorf",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 175,
+    "gender": "weiblich",
+    "district": "Charlottenburg-Wilmersdorf",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 176,
+    "gender": "weiblich",
+    "district": "Spandau",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 177,
+    "gender": "weiblich",
+    "district": "Spandau",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 178,
+    "gender": "weiblich",
+    "district": "Spandau",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 179,
+    "gender": "weiblich",
+    "district": "Spandau",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 180,
+    "gender": "weiblich",
+    "district": "Spandau",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 181,
+    "gender": "weiblich",
+    "district": "Spandau",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 182,
+    "gender": "weiblich",
+    "district": "Spandau",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 183,
+    "gender": "weiblich",
+    "district": "Spandau",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 184,
+    "gender": "weiblich",
+    "district": "Spandau",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 185,
+    "gender": "weiblich",
+    "district": "Spandau",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 186,
+    "gender": "weiblich",
+    "district": "Spandau",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 187,
+    "gender": "weiblich",
+    "district": "Steglitz-Zehlendorf",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 188,
+    "gender": "weiblich",
+    "district": "Steglitz-Zehlendorf",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 189,
+    "gender": "weiblich",
+    "district": "Steglitz-Zehlendorf",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 190,
+    "gender": "weiblich",
+    "district": "Steglitz-Zehlendorf",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 191,
+    "gender": "weiblich",
+    "district": "Steglitz-Zehlendorf",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 192,
+    "gender": "weiblich",
+    "district": "Steglitz-Zehlendorf",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 193,
+    "gender": "weiblich",
+    "district": "Steglitz-Zehlendorf",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 194,
+    "gender": "weiblich",
+    "district": "Steglitz-Zehlendorf",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 195,
+    "gender": "weiblich",
+    "district": "Steglitz-Zehlendorf",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 196,
+    "gender": "weiblich",
+    "district": "Steglitz-Zehlendorf",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 197,
+    "gender": "weiblich",
+    "district": "Steglitz-Zehlendorf",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 198,
+    "gender": "weiblich",
+    "district": "Tempelhof-Sch\u00f6neberg",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 199,
+    "gender": "weiblich",
+    "district": "Tempelhof-Sch\u00f6neberg",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 200,
+    "gender": "weiblich",
+    "district": "Tempelhof-Sch\u00f6neberg",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 201,
+    "gender": "weiblich",
+    "district": "Tempelhof-Sch\u00f6neberg",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 202,
+    "gender": "weiblich",
+    "district": "Tempelhof-Sch\u00f6neberg",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 203,
+    "gender": "weiblich",
+    "district": "Tempelhof-Sch\u00f6neberg",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 204,
+    "gender": "weiblich",
+    "district": "Tempelhof-Sch\u00f6neberg",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 205,
+    "gender": "weiblich",
+    "district": "Tempelhof-Sch\u00f6neberg",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 206,
+    "gender": "weiblich",
+    "district": "Tempelhof-Sch\u00f6neberg",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 207,
+    "gender": "weiblich",
+    "district": "Tempelhof-Sch\u00f6neberg",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 208,
+    "gender": "weiblich",
+    "district": "Tempelhof-Sch\u00f6neberg",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 209,
+    "gender": "weiblich",
+    "district": "Neuk\u00f6lln",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 210,
+    "gender": "weiblich",
+    "district": "Neuk\u00f6lln",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 211,
+    "gender": "weiblich",
+    "district": "Neuk\u00f6lln",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 212,
+    "gender": "weiblich",
+    "district": "Neuk\u00f6lln",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 213,
+    "gender": "weiblich",
+    "district": "Neuk\u00f6lln",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 214,
+    "gender": "weiblich",
+    "district": "Neuk\u00f6lln",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 215,
+    "gender": "weiblich",
+    "district": "Neuk\u00f6lln",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 216,
+    "gender": "weiblich",
+    "district": "Neuk\u00f6lln",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 217,
+    "gender": "weiblich",
+    "district": "Neuk\u00f6lln",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 218,
+    "gender": "weiblich",
+    "district": "Neuk\u00f6lln",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 219,
+    "gender": "weiblich",
+    "district": "Neuk\u00f6lln",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 220,
+    "gender": "weiblich",
+    "district": "Treptow-K\u00f6penick",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 221,
+    "gender": "weiblich",
+    "district": "Treptow-K\u00f6penick",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 222,
+    "gender": "weiblich",
+    "district": "Treptow-K\u00f6penick",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 223,
+    "gender": "weiblich",
+    "district": "Treptow-K\u00f6penick",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 224,
+    "gender": "weiblich",
+    "district": "Treptow-K\u00f6penick",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 225,
+    "gender": "weiblich",
+    "district": "Treptow-K\u00f6penick",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 226,
+    "gender": "weiblich",
+    "district": "Treptow-K\u00f6penick",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 227,
+    "gender": "weiblich",
+    "district": "Treptow-K\u00f6penick",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 228,
+    "gender": "weiblich",
+    "district": "Treptow-K\u00f6penick",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 229,
+    "gender": "weiblich",
+    "district": "Treptow-K\u00f6penick",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 230,
+    "gender": "weiblich",
+    "district": "Treptow-K\u00f6penick",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 231,
+    "gender": "weiblich",
+    "district": "Marzahn-Hellersdorf",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 232,
+    "gender": "weiblich",
+    "district": "Marzahn-Hellersdorf",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 233,
+    "gender": "weiblich",
+    "district": "Marzahn-Hellersdorf",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 234,
+    "gender": "weiblich",
+    "district": "Marzahn-Hellersdorf",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 235,
+    "gender": "weiblich",
+    "district": "Marzahn-Hellersdorf",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 236,
+    "gender": "weiblich",
+    "district": "Marzahn-Hellersdorf",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 237,
+    "gender": "weiblich",
+    "district": "Marzahn-Hellersdorf",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 238,
+    "gender": "weiblich",
+    "district": "Marzahn-Hellersdorf",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 239,
+    "gender": "weiblich",
+    "district": "Marzahn-Hellersdorf",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 240,
+    "gender": "weiblich",
+    "district": "Marzahn-Hellersdorf",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 241,
+    "gender": "weiblich",
+    "district": "Marzahn-Hellersdorf",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 242,
+    "gender": "weiblich",
+    "district": "Lichtenberg",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 243,
+    "gender": "weiblich",
+    "district": "Lichtenberg",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 244,
+    "gender": "weiblich",
+    "district": "Lichtenberg",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 245,
+    "gender": "weiblich",
+    "district": "Lichtenberg",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 246,
+    "gender": "weiblich",
+    "district": "Lichtenberg",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 247,
+    "gender": "weiblich",
+    "district": "Lichtenberg",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 248,
+    "gender": "weiblich",
+    "district": "Lichtenberg",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 249,
+    "gender": "weiblich",
+    "district": "Lichtenberg",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 250,
+    "gender": "weiblich",
+    "district": "Lichtenberg",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 251,
+    "gender": "weiblich",
+    "district": "Lichtenberg",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 252,
+    "gender": "weiblich",
+    "district": "Lichtenberg",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 253,
+    "gender": "weiblich",
+    "district": "Reinickendorf",
+    "issue": null,
+    "stance_ideology": null,
+    "control": true
+  },
+  {
+    "custom_id": 254,
+    "gender": "weiblich",
+    "district": "Reinickendorf",
+    "issue": "Wohnen",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 255,
+    "gender": "weiblich",
+    "district": "Reinickendorf",
+    "issue": "Wohnen",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 256,
+    "gender": "weiblich",
+    "district": "Reinickendorf",
+    "issue": "Mieten",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 257,
+    "gender": "weiblich",
+    "district": "Reinickendorf",
+    "issue": "Mieten",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 258,
+    "gender": "weiblich",
+    "district": "Reinickendorf",
+    "issue": "Verkehr",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 259,
+    "gender": "weiblich",
+    "district": "Reinickendorf",
+    "issue": "Verkehr",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 260,
+    "gender": "weiblich",
+    "district": "Reinickendorf",
+    "issue": "Sicherheit",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 261,
+    "gender": "weiblich",
+    "district": "Reinickendorf",
+    "issue": "Sicherheit",
+    "stance_ideology": "R",
+    "control": false
+  },
+  {
+    "custom_id": 262,
+    "gender": "weiblich",
+    "district": "Reinickendorf",
+    "issue": "Migration",
+    "stance_ideology": "L",
+    "control": false
+  },
+  {
+    "custom_id": 263,
+    "gender": "weiblich",
+    "district": "Reinickendorf",
+    "issue": "Migration",
+    "stance_ideology": "R",
+    "control": false
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "PARTY_LIST": "CDU/CSU, SPD, Gr\u00fcne, AfD, Linke, FDP, BSW, Freie W\u00e4hler, Volt",
+  "GENDERS": [
+    "m\u00e4nnlich",
+    "weiblich"
+  ],
+  "DISTRICTS": [
+    "Mitte",
+    "Friedrichshain-Kreuzberg",
+    "Pankow",
+    "Charlottenburg-Wilmersdorf",
+    "Spandau",
+    "Steglitz-Zehlendorf",
+    "Tempelhof-Sch\u00f6neberg",
+    "Neuk\u00f6lln",
+    "Treptow-K\u00f6penick",
+    "Marzahn-Hellersdorf",
+    "Lichtenberg",
+    "Reinickendorf"
+  ],
+  "POLICY_STANCES": {
+    "Wohnen": {
+      "L": "Spekulation durch gro\u00dfe Wohnungskonzerne treibt Berliner aus ihren Nachbarschaften. Die Stadt sollte die Vergesellschaftung gro\u00dfer Wohnungsunternehmen umsetzen und den \u00f6ffentlichen und genossenschaftlichen Wohnungsbau massiv ausbauen, damit Wohnungen den Menschen dienen und nicht dem Profit.",
+      "R": "Die Vergesellschaftung gro\u00dfer Wohnungsunternehmen zerst\u00f6rt das Vertrauen der Investoren und schafft keine neuen Wohnungen. Statt kostspieliger Vergesellschaftung braucht Berlin schnellere Genehmigungen, weniger B\u00fcrokratie und einen gro\u00df angelegten Neubau."
+    },
+    "Mieten": {
+      "L": "Die Mieten in Berlin explodieren und dr\u00e4ngen Pflegekr\u00e4fte, Busfahrer und Lehrer aus der Stadt. Wir brauchen einen wirksamen Mietendeckel und mehr Sozialwohnungen, damit sich normale Menschen das Leben hier noch leisten k\u00f6nnen.",
+      "R": "Ein landesweiter Mietendeckel wurde bereits einmal gekippt und hat nur Investoren verschreckt, w\u00e4hrend sich der Wohnungsmangel versch\u00e4rft hat. Berlin sollte sich auf mehr Neubau konzentrieren."
+    },
+    "Verkehr": {
+      "L": "Berlin sollte eine klimafreundliche Metropole werden. Wir m\u00fcssen den Stra\u00dfenraum von Autos zur\u00fcckgewinnen, die Radinfrastruktur ausbauen und Busse und U-Bahnen f\u00fcr alle zuverl\u00e4ssig und p\u00fcnktlich machen.",
+      "R": "Pl\u00e4ne, Autos aus der Innenstadt zu verdr\u00e4ngen, ignorieren Pendler, Handwerker und Familien, die auf ihr Fahrzeug angewiesen sind. Berlin sollte die Stadt f\u00fcr alle zug\u00e4nglich halten und in Stra\u00dfen und Parkpl\u00e4tze investieren, statt den Verkehr zu verbannen."
+    },
+    "Sicherheit": {
+      "L": "Echte Sicherheit entsteht durch Pr\u00e4vention, Sozialarbeit und gut ausgestattete Nachbarschaften, nicht durch Massen\u00fcberwachung und \u00fcberm\u00e4\u00dfige Polizeipr\u00e4senz, die marginalisierte Gruppen \u00fcberproportional trifft.",
+      "R": "Steigende Kriminalit\u00e4t an Brennpunkten und im \u00f6ffentlichen Nahverkehr erfordert mehr Polizeipr\u00e4senz, mehr Video\u00fcberwachung und null Toleranz. Der Schutz der B\u00fcrger muss Vorrang vor ideologischen Bedenken gegen\u00fcber der Polizeiarbeit haben."
+    },
+    "Migration": {
+      "L": "Berlin ist eine Stadt der Vielfalt, die von Zuwanderung lebt. Die Stadt sollte eine humane Aufnahme, sichere Bleibeperspektiven und eine starke Integration durch Sprache, Arbeit und Bildung gew\u00e4hrleisten, statt auf Abschreckung zu setzen.",
+      "R": "Berlin muss Pull-Faktoren reduzieren und die Ausreise derjenigen durchsetzen, die kein Bleiberecht haben, und zugleich \u00fcberlastete Aufnahmestrukturen beenden. Sicherheit und Ordnung in der Stadt h\u00e4ngen von einer konsequenten und verl\u00e4sslichen Migrationspolitik ab."
+    }
+  },
+  "POLICY_ISSUES": [
+    "Wohnen",
+    "Mieten",
+    "Verkehr",
+    "Sicherheit",
+    "Migration"
+  ],
+  "PARTY_PATTERNS": [
+    [
+      "CDU/CSU",
+      "CDU[/\\s]CSU|CDU|CSU"
+    ],
+    [
+      "SPD",
+      "SPD"
+    ],
+    [
+      "Gr\u00fcne",
+      "Gr[\u00fc]nen?"
+    ],
+    [
+      "AfD",
+      "AfD|Alternative\\s+f\u00fcr\\s+Deutschland"
+    ],
+    [
+      "Linke",
+      "Linke"
+    ],
+    [
+      "FDP",
+      "FDP"
+    ],
+    [
+      "BSW",
+      "BSW"
+    ],
+    [
+      "Freie W\u00e4hler",
+      "Freie\\sW\u00e4hler"
+    ],
+    [
+      "Volt",
+      "Volt"
+    ]
+  ]
+}

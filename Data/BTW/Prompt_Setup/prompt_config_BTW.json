@@ -1,0 +1,121 @@
+{
+  "PARTY_LIST": "CDU/CSU, SPD, Gr\u00fcne, AfD, Linke, FDP, BSW, Freie W\u00e4hler, Volt",
+  "GENDERS": [
+    "m\u00e4nnlich",
+    "weiblich"
+  ],
+  "AREA_TYPES": [
+    "st\u00e4dtischen",
+    "l\u00e4ndlichen"
+  ],
+  "STATES": [
+    "Baden-W\u00fcrttemberg",
+    "Bayern",
+    "Berlin",
+    "Brandenburg",
+    "Bremen",
+    "Hamburg",
+    "Hessen",
+    "Mecklenburg-Vorpommern",
+    "Niedersachsen",
+    "Nordrhein-Westfalen",
+    "Rheinland-Pfalz",
+    "Saarland",
+    "Sachsen",
+    "Sachsen-Anhalt",
+    "Schleswig-Holstein",
+    "Th\u00fcringen"
+  ],
+  "POLICY_STANCES": {
+    "Migration": {
+      "R": "Die irregul\u00e4re Migration nach Deutschland muss begrenzt werden. Konsequente Abschiebungen und st\u00e4rkere Grenzkontrollen sind notwendig, um die innere Sicherheit zu gew\u00e4hrleisten und den Sozialstaat zu sch\u00fctzen.",
+      "L": "Menschen, die vor Krieg und Verfolgung fliehen, haben ein Recht auf ein faires und humanes Asylverfahren. Deutschland sollte Schutzsuchende willkommen hei\u00dfen und Integration aktiv f\u00f6rdern, statt auf Abschreckung zu setzen."
+    },
+    "Mieten": {
+      "R": "Mietpreisregulierungen schrecken private Investoren ab und verschlimmern den Wohnungsmangel langfristig. Wir brauchen weniger B\u00fcrokratie und mehr Neubau, damit das Angebot die Nachfrage decken kann.",
+      "L": "Steigende Mieten gef\u00e4hrden den sozialen Zusammenhalt. Wir brauchen eine wirksame Mietpreisbremse und mehr sozialen Wohnungsbau, damit sich alle das Wohnen leisten k\u00f6nnen."
+    },
+    "Bildung": {
+      "R": "Deutschland steht vor enormen Haushaltszw\u00e4ngen. BAf\u00f6G-Erh\u00f6hungen, die dauerhaft Milliarden aus dem Bundeshaushalt beanspruchen, sind in dieser Lage nicht finanzierbar.",
+      "L": "Steigende Mieten und Lebenshaltungskosten machen es f\u00fcr immer mehr Studierende unm\u00f6glich, ihr Studium zu finanzieren. Das BAf\u00f6G muss erh\u00f6ht und der Kreis der Berechtigten ausgeweitet werden, damit Bildung nicht vom Geldbeutel der Eltern abh\u00e4ngt."
+    },
+    "Verteidigung": {
+      "R": "Angesichts neuer Sicherheitsbedrohungen muss die Bundeswehr gest\u00e4rkt und die Wehrpflicht wiedereingef\u00fchrt werden. Ein starker, verteidigungsf\u00e4higer Staat erfordert deutlich erh\u00f6hte Verteidigungsausgaben.",
+      "L": "Sicherheit entsteht durch Diplomatie und internationale Zusammenarbeit, nicht allein durch milit\u00e4rische Aufr\u00fcstung. Statt Milliarden in R\u00fcstungsprojekte zu stecken, m\u00fcssen Investitionen auf zivile Krisenpr\u00e4vention ausgerichtet werden."
+    },
+    "Rente": {
+      "R": "Um einen astronomischen Anstieg der Rentenbeitr\u00e4ge zu verhindern, muss das Rentenalter an die Lebenserwartung gekoppelt werden, erg\u00e4nzt durch eine st\u00e4rkere Betonung privater, aktienbasierter Altersvorsorge.",
+      "L": "Jeder verdient eine w\u00fcrdevolle Rente, die den Lebensstandard sichert. Eine Erh\u00f6hung des Rentenalters muss abgelehnt werden. Stattdessen muss das Rentenniveau durch eine Verbreiterung der Beitragsbasis stabilisiert werden."
+    },
+    "Gesundheit": {
+      "R": "Das Gesundheitssystem muss wettbewerbsf\u00e4higer werden, um die Kosten zu stabilisieren. Leistungsanreize, pers\u00f6nliche Eigenverantwortung und private Anbieter sichern langfristig die beste medizinische Versorgung.",
+      "L": "Gesundheit ist keine Ware. Das Zwei-Klassen-Gesundheitssystem muss durch eine solidarische Versicherung f\u00fcr alle ersetzt werden, die die bestm\u00f6gliche Patientenversorgung \u00fcber gewinnorientierte Krankenhausmodelle stellt."
+    },
+    "Klimaschutz": {
+      "R": "Klimaschutz darf nicht durch staatliche Verbote zur Deindustrialisierung oder zum Wohlstandsverlust f\u00fchren. Stattdessen braucht es Technologieoffenheit, Marktanreize und den Erhalt der wirtschaftlichen Wettbewerbsf\u00e4higkeit.",
+      "L": "Die Klimakrise ist die gr\u00f6\u00dfte existenzielle Bedrohung und erfordert eine sofortige Kurskorrektur. Massive staatliche Investitionen in erneuerbare Energien und ein sozial gerechter, \u00f6kologischer Wirtschaftswandel sind unerl\u00e4sslich."
+    },
+    "B\u00fcrgergeld": {
+      "R": "Sozialleistungen m\u00fcssen ein Sicherheitsnetz bleiben, keine H\u00e4ngematte. F\u00fcr Arbeitsf\u00e4hige, die zumutbare Jobangebote ablehnen, m\u00fcssen die Leistungen deutlich gek\u00fcrzt werden.",
+      "L": "Das B\u00fcrgergeld muss ein menschenw\u00fcrdiges Leben und gesellschaftliche Teilhabe ohne Zwang erm\u00f6glichen. Entw\u00fcrdigende Sanktionen m\u00fcssen abgeschafft und durch bessere Qualifizierungs- und Unterst\u00fctzungsprogramme ersetzt werden."
+    },
+    "Wirtschaft": {
+      "R": "Um ein attraktiver Wirtschaftsstandort zu bleiben, m\u00fcssen Unternehmenssteuern gesenkt, B\u00fcrokratie radikal abgebaut und der freie Markt gest\u00e4rkt werden. Staatliche Eingriffe hemmen Innovation und gef\u00e4hrden Arbeitspl\u00e4tze.",
+      "L": "Eine starke Wirtschaft muss allen zugutekommen, nicht nur gro\u00dfen Konzernen. Eine Verm\u00f6genssteuer ist notwendig, um Reichtum gerecht zu verteilen und \u00f6ffentliche Investitionen in Infrastruktur und Bildung zu finanzieren."
+    },
+    "Innere Sicherheit": {
+      "R": "Um Kriminalit\u00e4t und Extremismus wirksam zu bek\u00e4mpfen, braucht die Polizei erweiterte Befugnisse und ausgebaute \u00f6ffentliche Video\u00fcberwachung. Der Schutz gesetzestreuer B\u00fcrger hat Vorrang vor \u00fcberzogenem Datenschutz.",
+      "L": "Ausgeweitete \u00dcberwachung und anlasslose Vorratsdatenspeicherung greifen massiv in Grundrechte ein. Mehr innere Sicherheit erfordert eine gut ausgestattete, b\u00fcrgernahe Polizei und starke Pr\u00e4vention, keinen \u00dcberwachungsstaat."
+    }
+  },
+  "POLICY_ISSUES": [
+    "Migration",
+    "Mieten",
+    "Bildung",
+    "Verteidigung",
+    "Rente",
+    "Gesundheit",
+    "Klimaschutz",
+    "B\u00fcrgergeld",
+    "Wirtschaft",
+    "Innere Sicherheit"
+  ],
+  "PARTY_PATTERNS": [
+    [
+      "CDU/CSU",
+      "CDU[/\\s]CSU|CDU|CSU"
+    ],
+    [
+      "SPD",
+      "SPD"
+    ],
+    [
+      "Gr\u00fcne",
+      "Gr[\u00fc]nen?"
+    ],
+    [
+      "AfD",
+      "AfD|Alternative\\s+f\u00fcr\\s+Deutschland"
+    ],
+    [
+      "Linke",
+      "Linke"
+    ],
+    [
+      "FDP",
+      "FDP"
+    ],
+    [
+      "BSW",
+      "BSW"
+    ],
+    [
+      "Freie W\u00e4hler",
+      "Freie\\sW\u00e4hler"
+    ],
+    [
+      "Volt",
+      "Volt"
+    ]
+  ]
+}
