@@ -52,14 +52,7 @@ figures and regressions. Full design, results and discussion are in the final pa
 pip install -r requirements.txt
 ```
 
-Collection additionally requires API keys for all four providers, set as environment variables:
-
-```bash
-export GOOGLE_API_KEY=...
-export MISTRAL_API_KEY=...
-export DASHSCOPE_API_KEY=...   # Qwen
-export XAI_API_KEY=...         # Grok
-```
+Collection additionally requires API keys for all four providers.
 
 ## Reproducing
 
@@ -67,5 +60,5 @@ Run `Notebooks/02_Data_Analysis.ipynb` to regenerate every figure and regression
 data in this repository. No API keys needed.
 
 `Notebooks/01_Data_Collection.ipynb` re-collects from the providers. This costs money and will
-not reproduce the numbers in the paper — two of the four models changed measurably within our
+not reproduce the numbers in the paper. Two of the four models changed measurably within our
 five-week collection window, so any new batch is a fresh snapshot rather than a replication.
